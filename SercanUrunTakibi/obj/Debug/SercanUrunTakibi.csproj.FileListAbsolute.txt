@@ -1,0 +1,60 @@
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\SercanUrunTakibi.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\SercanUrunTakibi.pdb
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\Antlr3.Runtime.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\EntityFramework.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\Microsoft.Web.Infrastructure.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\Newtonsoft.Json.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Net.Http.Formatting.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Http.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Http.WebHost.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Mvc.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Optimization.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Providers.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Razor.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.Deployment.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.Razor.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\WebGrease.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\EntityFramework.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\Newtonsoft.Json.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Net.Http.Formatting.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Http.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Http.WebHost.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Mvc.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.Razor.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.Deployment.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\bin\System.Web.WebPages.Razor.xml
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.csprojResolveAssemblyReference.cache
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.dll
+C:\users\aribilgi\documents\visual studio 2012\Projects\SercanUrunTakibi\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.pdb
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\SercanUrunTakibi.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\SercanUrunTakibi.pdb
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\Antlr3.Runtime.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\EntityFramework.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\Newtonsoft.Json.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Net.Http.Formatting.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Http.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Http.WebHost.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Mvc.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Optimization.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Providers.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Razor.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\WebGrease.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\EntityFramework.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\Newtonsoft.Json.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Net.Http.Formatting.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Http.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Http.WebHost.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Mvc.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.Razor.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.csprojResolveAssemblyReference.cache
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.dll
+C:\Users\ARIBİLGİ\Desktop\SercanUrunTakibi-master\SercanUrunTakibi-master\SercanUrunTakibi\obj\Debug\SercanUrunTakibi.pdb

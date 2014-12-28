@@ -1,0 +1,18 @@
+﻿@model List<SercanUrunTakibi.Models.Category>
+<h2>Kategori Listesi</h2>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Kategori Adı</th>
+        <th>İşlemler</th>
+    </tr>
+    @foreach (SercanUrunTakibi.Models.Category c in Model)
+    {
+        <tr>
+            <td>@c.getId()</td>
+            <td>@c.CategoryName</td>
+            <td>x-y-z</td>
+        </tr>
+    }
+</table>
+<a href="/Category/Insert">Yeni Kategori</a>

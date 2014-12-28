@@ -1,0 +1,15 @@
+﻿@model List<SercanUrunTakibi.Models.Category>
+<h2>Alt Kategori Ekle</h2>
+<form action="#" method ="post">
+    <h3>Kategorisi</h3>
+    <select name="category-id">        
+        <option value="0">Bilinmiyor</option>
+        @foreach (SercanUrunTakibi.Models.Category c in Model) { 
+            <option value="@c.getId()">@c.CategoryName</option>
+        }
+    </select>
+    <h3>Alt Kategori Adı</h3>
+    <input type="text" name="sub-category-name" /><br />    
+    <input type="submit" value="Gönder" />
+</form>
+

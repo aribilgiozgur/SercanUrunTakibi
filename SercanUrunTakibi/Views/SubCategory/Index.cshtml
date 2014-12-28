@@ -1,0 +1,21 @@
+﻿@model List<SercanUrunTakibi.Models.SubCategory>
+<h2>AltKategoriler</h2>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Kategorisi</th>
+        <th>Alt Kategori Metni</th>
+    </tr>
+
+    @foreach (SercanUrunTakibi.Models.SubCategory sc in Model) 
+    { 
+        <tr>
+            <td>@sc.getId()</td>
+            <td>@sc.getCategory().CategoryName</td>
+            <td>@sc.SubCategoryName</td>
+        </tr>
+    }
+</table>
+
+<a href="/SubCategory/Insert">Alt kategori ekle</a>
+
